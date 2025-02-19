@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luis-guilherme
-- 👀 I’m interested in Linux, Containers, Retro computing, emulation, general coding, security, raspberry pi
+- 👀 I’m interested in Linux, Containers, IoT, Home automation, Retro computing, emulation, general coding, security, raspberry pi
 - 🌱 I’m currently learning python and rust
 - 💞️ I’m looking to collaborate on any open source project, still didn't pick any
 - 📫 How to reach me ... later
